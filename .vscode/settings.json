@@ -1,0 +1,6 @@
+{
+    "python.formatting.provider": "autopep8",
+    "i18n-ally.localesPaths": [
+        "what-up-da-nang/src/libs/i18n"
+    ]
+}
